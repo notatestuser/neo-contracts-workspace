@@ -1,0 +1,27 @@
+[submodule "Neo.Ecosystem/src/neo-vm"]
+	path = Neo.Ecosystem/src/neo-vm
+	url = https://github.com/notatestuser/neo-vm.git
+[submodule "Neo.Ecosystem/src/neo"]
+	path = Neo.Ecosystem/src/neo
+	url = https://github.com/notatestuser/neo.git
+[submodule "Neo.Ecosystem/src/neo-devpack-dotnet"]
+	path = Neo.Ecosystem/src/neo-devpack-dotnet
+	url = https://github.com/neo-project/neo-devpack-dotnet.git
+[submodule "Neo.Ecosystem/src/neo-cli"]
+	path = Neo.Ecosystem/src/neo-cli
+	url = https://github.com/notatestuser/neo-cli.git
+[submodule "Neo.Ecosystem/src/neo-gui"]
+	path = Neo.Ecosystem/src/neo-gui
+	url = https://github.com/notatestuser/neo-gui.git
+[submodule "Neo.Ecosystem/src/leveldb"]
+	path = Neo.Ecosystem/src/leveldb
+	url = https://github.com/vardthomas/leveldb.git
+[submodule "Neo.Ecosystem/src/Neo.Compiler.Tests"]
+	path = Neo.Ecosystem/src/Neo.Compiler.Tests
+	url = https://github.com/vardthomas/Neo.Compiler.Tests.git
+[submodule "Neo.Ecosystem/src/Neo.VM.Tests"]
+	path = Neo.Ecosystem/src/Neo.VM.Tests
+	url = https://github.com/vardthomas/Neo.VM.Tests.git
+[submodule "Neo.Ecosystem/src/neo-compiler"]
+	path = Neo.Ecosystem/src/neo-compiler
+	url = https://github.com/notatestuser/neo-compiler.git

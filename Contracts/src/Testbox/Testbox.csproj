@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.0.0" />
+    <PackageReference Include="xunit" Version="2.2.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Neo.Ecosystem\src\neo-compiler\neon\neon.csproj" />
+    <ProjectReference Include="..\..\..\Neo.Ecosystem\src\neo-devpack-dotnet\Neo.SmartContract.Framework\Neo.SmartContract.Framework.csproj" />
+    <ProjectReference Include="..\..\..\Neo.Ecosystem\src\neo-vm\src\neo-vm\neo-vm.csproj" />
+    <ProjectReference Include="..\..\..\Neo.Ecosystem\src\neo\neo\neo.csproj" />
+    <ProjectReference Include="..\..\..\Contracts\src\Calculator\Calculator.csproj" />
+    <ProjectReference Include="..\..\..\Contracts\src\HelloWorld\HelloWorld.csproj" />
+  </ItemGroup>
+
+</Project>
