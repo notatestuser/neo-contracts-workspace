@@ -1,6 +1,8 @@
 # neo-contracts-workspace
 The entire neo ecosystem for macOS!
 
+Credit to @vardthomas and @aljoscha as this was pieced together from their repos
+
 ## Getting Started
 * Install Visual Studio for Mac
 * Install the [.NET Core SDK](https://github.com/dotnet/core/releases)
