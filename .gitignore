@@ -1,4 +1,5 @@
 *.avm
+Neo.SmartContract.Framework.dll
 
 # Temporary, trying to make these work
 build.tasks
