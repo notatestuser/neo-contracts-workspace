@@ -2,7 +2,8 @@
 The entire neo ecosystem for macOS!
 
 ## Getting Started
-* Download Visual Studio for Mac
+* Install Visual Studio for Mac
+* Install the [.NET Core SDK](https://github.com/dotnet/core/releases)
 * Clone this repository
 * Pull the submodules: `git submodule update --init --recursive .`
 * Open the solution file
